@@ -9,7 +9,7 @@ def text_to_emoji(text):
         "laugh": "😂",
         "cool": "😎",
         "angry": "😠",
-        "star": "⭐",
+        "stars": "⭐",
         "sun": "☀",
         "moon":"🌜",
         "music":"🎼",
@@ -18,7 +18,7 @@ def text_to_emoji(text):
         "done":"👍🏻",
         "super":"👌",
         "wow":"😍",
-        "cloud":"☁️"
+        "clouds":"☁️"
     }
     
     # Split text into words and replace with emojis if available
